@@ -1,0 +1,53 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 206
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phoenix Zoo Maricopa County" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 7
+	Query: "El Paso Zoo El Paso County Texas" ; Times: 3
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "Alamogordo Zoo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+
+
+End of report.
