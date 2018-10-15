@@ -1,0 +1,113 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 207
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 9
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-16 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "family:Tinamidae sex:Female preparations:Skeleton" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Fulica americana" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Oxyura jamaicensis" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "el Paso Zoo" ; Times: 3
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Eva Lake" ; Times: 1
+	Query: "Calidris mauri" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 1
+	Query: "Calidris minutilla" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Picoides borealis" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "genus:Casuarius sex:Female preparations:Skeleton" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Aix sponsa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Icterus spurius" ; Times: 1
+	Query: "Zenaida asiatica" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1398 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nucifraga" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+
+
+End of report.
