@@ -1,0 +1,105 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 410
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 6
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 19
+	Date: 2018-03-27 ; Times: 17
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 5
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 5
+	Query: "Myiopsitta monachus " ; Times: 1
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 5
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 5
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "Aves institutioncode:UTEP hassex:1 hasmass:1" ; Times: 1
+	Query: "order:Casuariiformes" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 2
+	Query: "institutioncode:UTEP" ; Times: 2
+	Query: "genus:Casuarius" ; Times: 1
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "catalognumber:368 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 5
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 6
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 5
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1284 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "vntype:specimen class:Aves preparations:Wing" ; Times: 1
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "Aves institutioncode:UTEP hassex:1 hasmass:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+
+
+End of report.
