@@ -1,0 +1,91 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Canada ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:fischeri genus:Agapornis" ; Times: 3
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Casuarius" ; Times: 2
+	Query: "Nothoprocta" ; Times: 1
+	Query: "katy texas birds" ; Times: 1
+	Query: "specificepithet:celata class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1359 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+	Country: Portugal ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1995 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:caerulea genus:Guiraca class:Aves" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Charadrius vociferus hasmass:1" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles mappable:1" ; Times: 1
+	Query: "&#34;whole organism&#34; vntype:specimen family:trochilidae" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "&#34;whole organism&#34; vntype:specimen order:passeriformes" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (&#34;Whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "vntype:specimen order:apodiformes (&#34;whole organism&#34; OR fluid OR alc)" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+
+
+End of report.
