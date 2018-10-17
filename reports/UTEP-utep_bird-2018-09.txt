@@ -1,0 +1,71 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 222
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-20 ; Times: 6
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 6
+	Query: "institutioncode:utep" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "institutioncode:UTEP" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 846 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+
+
+End of report.
