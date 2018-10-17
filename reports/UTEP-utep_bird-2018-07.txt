@@ -1,0 +1,91 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 323
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Peru ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-24 ; Times: 9
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "Buteo swainsoni mappable:1" ; Times: 1
+	Query: "Quiscalus mexicanus mappable:1" ; Times: 1
+	Query: "Plegadis chihi mappable:1" ; Times: 1
+	Query: "catalognumber:36 institutioncode:UTEP" ; Times: 1
+	Query: "1196 psittacidae" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 3
+	Query: "specificepithet:palustris stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:UTEP" ; Times: 3
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 2000" ; Times: 1
+	Query: "Tringa solitaria mappable:1" ; Times: 1
+	Query: "Amazona viridigenalis year &gt;= 1908 year &lt;= 2010" ; Times: 1
+	Query: "Rallus limicola mappable:1" ; Times: 1
+	Query: "2543 psittacidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 977 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 10
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+
+
+End of report.
