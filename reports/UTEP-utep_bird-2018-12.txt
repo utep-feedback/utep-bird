@@ -1,0 +1,94 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 336
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Switzerland ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 2
+	Query: "institutioncode:UTEP 1023" ; Times: 1
+	Query: "UTEP 1927" ; Times: 1
+	Query: "catalognumber:1023 institutioncode:UTEP" ; Times: 4
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+	Query: "casuarius" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Dog Canyon road" ; Times: 1
+	Query: "institutioncode:UTEP" ; Times: 3
+	Query: "UTEP 1023" ; Times: 1
+	Query: "genus:Catharus recordedby:Harris" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "casuarius casuarius" ; Times: 2
+	Query: "UTEP 5271" ; Times: 2
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "UTEP 5387" ; Times: 1
+	Query: "Aphelocoma coerulescens mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 809 download events in this period)
+Total number of records downloaded: 382
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: India ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Coccyzus americanus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+
+
+End of report.
