@@ -1,0 +1,99 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Argentina ; Times: 1
+	Country: Peru ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "UTEP 794" ; Times: 2
+	Query: "UTEP 563" ; Times: 3
+	Query: "specificepithet:platypterus genus:buteo county:&#34;Harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "spheniscus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:whitneyi genus:micrathene stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "specificepithet:nuttalli genus:pica year &gt;= 1997 year &lt;= 2001 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 434" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 3
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "UTEP 1239" ; Times: 1
+	Query: "Gymnogyps" ; Times: 2
+	Query: "UTEP 1233" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 962 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:flava genus:Piranga year &gt;= 1975 year &lt;= 2018" ; Times: 1
+
+
+End of report.
