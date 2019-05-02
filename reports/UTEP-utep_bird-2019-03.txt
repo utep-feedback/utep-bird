@@ -1,0 +1,82 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 166
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Canada ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-25 ; Times: 8
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 8
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 11
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UTEP" ; Times: 2
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "UTEP 3441" ; Times: 2
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cacatua galerita galerita" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New Mexico" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Texas" ; Times: 4
+	Query: "Eos reticulata" ; Times: 6
+	Query: "utep 1248" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "utep 38" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14 institutioncode:UTEP" ; Times: 2
+	Query: "UTEP 200" ; Times: 3
+	Query: "UTEP 504" ; Times: 1
+	Query: "UTEP 9953" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1281 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+
+
+End of report.
