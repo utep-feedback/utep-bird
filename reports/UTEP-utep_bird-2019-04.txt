@@ -1,0 +1,102 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 7
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinus genus:Melanerpes sex:male preparations:skeleton" ; Times: 1
+	Query: "specificepithet:celata genus:Vermivora class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius preparations:skull" ; Times: 1
+	Query: "county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 2
+	Query: "genus:Casuarius" ; Times: 2
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "specificepithet:temminckii genus:Tragopan" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "genus:Tyto catalognumber:1327" ; Times: 2
+	Query: "specificepithet:monacha genus:grus" ; Times: 1
+	Query: "institutioncode:UTEP" ; Times: 1
+	Query: "county:&#34;Val Verde&#34; institutioncode:UTEP" ; Times: 2
+	Query: "county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; institutioncode:UTEP" ; Times: 2
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1263 download events in this period)
+Total number of records downloaded: 136
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 9
+	Date: 2019-04-22 ; Times: 5
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "specificepithet:temminckii genus:Tragopan" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Utah" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "sphenisciformes" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:monacha genus:grus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+
+
+End of report.
