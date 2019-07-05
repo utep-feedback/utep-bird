@@ -1,0 +1,117 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 46
+	Country: Guatemala ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-16 ; Times: 7
+	Date: 2019-06-19 ; Times: 3
+	Date: 2019-06-18 ; Times: 7
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 27
+	Date: 2019-06-10 ; Times: 11
+	Date: 2019-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Agapornis specificepithet:fischeri" ; Times: 1
+	Query: "genus:Rhynchopsitta specificepithet:pachyrhyncha" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Polytelis specificepithet:alexandrae" ; Times: 1
+	Query: "genus:Casuarius specificepithet:Casuarius" ; Times: 2
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 1
+	Query: "genus:Psephotus specificepithet:haematonotus" ; Times: 1
+	Query: "specificepithet:arausiaca genus:Amazona" ; Times: 2
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:immutabilis" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 2
+	Query: "genus:Deroptyus specificepithet:accipitrinus" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 1
+	Query: "genus:Cissa specificepithet:chinensis" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Aeronautes specificepithet:saxatalis" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "genus:Cygnus specificepithet:buccinator" ; Times: 1
+	Query: "institutioncode:UTEP" ; Times: 1
+	Query: "genus:Seiurus class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arausiaca genus:Amazona preparations:skeleton" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:UTEP" ; Times: 1
+	Query: "genus:Micrathene specificepithet:whitneyi" ; Times: 1
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "specificepithet:varia genus:Mniotilta class:Aves county:&#34;York&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "Aratinga jandaya" ; Times: 4
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 1
+	Query: "genus:Neophema specificepithet:Bourkii" ; Times: 1
+	Query: "genus:Psittacula specificepithet:krameri" ; Times: 1
+	Query: "genus:Tyto" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1182 download events in this period)
+Total number of records downloaded: 92
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Trochilidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "strigiformes" ; Times: 1
+
+
+End of report.
