@@ -1,0 +1,107 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 381
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 10
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-12 ; Times: 9
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-30 ; Times: 8
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "UTEP 4444" ; Times: 1
+	Query: "gbifdatasetid:f85f5c5c-ce02-4337-9317-23fe54769ff2 procellariiformes" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens mappable:1" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "spheniscus" ; Times: 1
+	Query: "gbifdatasetid:f85f5c5c-ce02-4337-9317-23fe54769ff2" ; Times: 3
+	Query: "specificepithet:tolmiei genus:Geothlypis year &gt;= 1980 month &gt;= 7 month &lt;= 9" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "UTEP 4456" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "specificepithet:livia genus:columba continent:north america" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "Alisterus amboinensis" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:gymnogyps preparations:skeleton" ; Times: 6
+	Query: "Amazona arausiaca" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;New Jersey&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 985 download events in this period)
+Total number of records downloaded: 107
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 10
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:occidentalis genus:setophaga year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "crax rubra" ; Times: 8
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
