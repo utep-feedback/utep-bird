@@ -1,0 +1,72 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 270
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 120
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-03 ; Times: 19
+	Date: 2019-09-06 ; Times: 66
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 37
+	Query: "institutioncode:UTEP AND Indonesia" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "1816 turner" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 22
+	Query: "1816 turner aves" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 4
+	Query: "Casuariidae" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 27
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1073 download events in this period)
+Total number of records downloaded: 62
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
