@@ -1,0 +1,95 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 164
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 91
+	Country: Thailand ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-09 ; Times: 14
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-07 ; Times: 34
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 17
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-14 ; Times: 6
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "genus:Rallus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Mike Scott" ; Times: 1
+	Query: "Coccyzus americanus 2001" ; Times: 4
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "phasianus" ; Times: 1
+	Query: "Coccyzus americanus 1972" ; Times: 4
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "specificepithet:carolinensis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Aphelocoma coerulescens 2019" ; Times: 12
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "specificepithet:canadensis class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oreoscoptes year &gt; 1990" ; Times: 1
+	Query: "locality:delevan" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "Aphelocoma coerulescens 1995" ; Times: 6
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "trochilidae preparations:wing" ; Times: 3
+	Query: "wing vntype:specimen family:trochilidae preparations:wing" ; Times: 2
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2019" ; Times: 12
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 257
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+
+
+End of report.
