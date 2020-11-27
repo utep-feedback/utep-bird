@@ -1,0 +1,85 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-15 ; Times: 6
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "Texas Setophaga tigrina" ; Times: 1
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "Texas Zenaida asiatica" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Texas Anser albifrons" ; Times: 1
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "Texas Mareca strepera" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "Texas Setophaga" ; Times: 2
+	Query: "Caprimulgus vociferus Texas" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:male" ; Times: 1
+	Query: "Texas Limnothlypis swainsonii" ; Times: 1
+	Query: "specificepithet:striatus genus:accipiter stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:male" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1106 download events in this period)
+Total number of records downloaded: 3527
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "egg texas" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Caprimulgus carolinensis Texas" ; Times: 1
+
+
+End of report.
