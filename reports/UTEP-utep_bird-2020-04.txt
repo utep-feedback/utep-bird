@@ -1,0 +1,160 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 429
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 134
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 60
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 25
+	Date: 2020-04-21 ; Times: 40
+	Date: 2020-04-29 ; Times: 7
+	Date: 2020-04-08 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Zonotrichia atricapilla Texas" ; Times: 1
+	Query: "preparations:Skeleton parabuteo" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "&#34;Wing Chord&#34; specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Fulica americana" ; Times: 3
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 2
+	Query: "Himantopus himantopus" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "Columba livia" ; Times: 3
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 8
+	Query: "vntype:specimen genus:Busarellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 3
+	Query: "Aythya americana" ; Times: 4
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Crax rubra" ; Times: 3
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Tragopan temminckii" ; Times: 3
+	Query: "Pteroglossus beauharnaesii" ; Times: 2
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "El Paso Zoo Texas" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Grus monacha" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 2
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "pavo cristatus" ; Times: 4
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "specificepithet:townsendi genus:setophaga stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigricollis genus:podiceps (skeleton)" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Anas clypeata" ; Times: 13
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1171 download events in this period)
+Total number of records downloaded: 246
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-29 ; Times: 13
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
