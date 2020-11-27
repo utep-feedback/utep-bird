@@ -1,0 +1,117 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 183
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 15
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 4
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-22 ; Times: 17
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-24 ; Times: 11
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Coccyzus americanus 2001" ; Times: 1
+	Query: "Coccyzus americanus 2000" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Spheniscus" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 1
+	Query: "Coccyzus americanus 1972" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 1
+	Query: "Aphelocoma coerulescens 2019" ; Times: 2
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton year &gt;= 1966 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:clangula genus:bucephala country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coccyzus americanus 1995" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 2
+	Query: "class:aves institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Aphelocoma coerulescens 1995" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "hasmedia:1 icterus icterus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Rallus el paso" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1308 download events in this period)
+Total number of records downloaded: 3275
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "colinus virginianus ridgwayi" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "class:aves institutioncode:UTEP" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Setophaga americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+
+
+End of report.
