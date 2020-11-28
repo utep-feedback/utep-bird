@@ -1,0 +1,65 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 9
+	Country: United Kingdom ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-17 ; Times: 3
+	Date: 2020-06-11 ; Times: 4
+	Date: 2020-06-03 ; Times: 10
+	Date: 2020-06-10 ; Times: 4
+	Date: 2020-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Zenaida macroura mass OR weight" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus mass OR weight" ; Times: 2
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 474 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+
+
+End of report.
