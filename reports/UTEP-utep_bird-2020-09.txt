@@ -1,0 +1,79 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-23 ; Times: 4
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thalassina genus:Tachycineta stateprovince:&#34;New Mexico&#34; month &gt;= 7 month &lt;= 10 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 2
+	Query: "scientificname:Streptopelia decaocto" ; Times: 8
+	Query: "Lophornis ornata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 976 download events in this period)
+Total number of records downloaded: 337
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 10
+	Country: Netherlands ; Times: 5
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sialia" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:cuculiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "Catharus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Lophornis ornata" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+
+
+End of report.
