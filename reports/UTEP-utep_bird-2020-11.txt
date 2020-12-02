@@ -1,0 +1,70 @@
+Report for Institution Code UTEP, Resource utep_bird
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 5
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chordeiles acutipennis Texas" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 842 download events in this period)
+Total number of records downloaded: 179
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-10 ; Times: 10
+	Date: 2020-11-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+
+
+End of report.
